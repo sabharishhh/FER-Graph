@@ -24,8 +24,6 @@ No dataset is included here due to size and licensing; instructions are provided
 
 ---
 
-## Project Structure
-
 ## Notes
 Dataset must be prepared separately; see data/README.md for instructions.
 Large model weights (>100MB) should be hosted externally (GitHub Releases, Hugging Face, etc.).
